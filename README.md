@@ -1,6 +1,14 @@
-# my_app
-
+# todolist
 A new Flutter project.
+
+login details:<br>
+owner<br>
+email:owner@gmail.com<br>
+password:owner123<br>
+
+student:<br>
+email:student@gmail.com<br>
+password:student123<br>
 
 ## Getting Started
 
