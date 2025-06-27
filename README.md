@@ -10,6 +10,16 @@ student:<br>
 email:student@gmail.com<br>
 password:student123<br>
 
+To run:<br>
+make sure that you have inside todolist directory.<br>
+To clean project:<br>
+flutter clean<br>
+To get packages:<br>
+flutter pub get<br>
+
+click on start debugging in VSCode.
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
