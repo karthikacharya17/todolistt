@@ -1,15 +1,7 @@
 class Task {
-  String id;
-  String title;
-  bool isDone;
-  String owner;
-  List<String> sharedWith;
+  final String id;
+  final String title;
+  final String createdBy;
 
-  Task({
-    required this.id,
-    required this.title,
-    this.isDone = false,
-    required this.owner,
-    this.sharedWith = const [],
-  });
+  Task({required this.id, required this.title, required this.createdBy});
 }
